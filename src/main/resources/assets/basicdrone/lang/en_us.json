@@ -1,0 +1,14 @@
+{
+  "block.basicdrone.drone": "Drone Block",
+  "block.basicdrone.cable": "Energy Cable",
+  "block.basicdrone.charging_station": "Charging Station",
+  "block.basicdrone.energy_storage": "Energy Storage",
+  "block.basicdrone.generator": "Generator",
+  "item.basicdrone.remote_controller": "Remote Controller",
+  "container.basicdrone.generator": "Generator",
+  "container.basicdrone.energy_storage": "Energy Storage",
+  "container.basicdrone.remote_controller": "Remote Controller",
+  "itemGroup.basicdrone": "Basic Drone",
+  "item.basicdrone.drone": "Drone"
+
+}

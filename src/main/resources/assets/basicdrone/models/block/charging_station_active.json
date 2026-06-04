@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down":  "basicdrone:block/charger_bottom",
+    "up": "basicdrone:block/charger_top_active",
+    "north": "basicdrone:block/charger_frontleftrightback",
+    "south": "basicdrone:block/charger_frontleftrightback",
+    "west":  "basicdrone:block/charger_frontleftrightback",
+    "east":  "basicdrone:block/charger_frontleftrightback"
+  }
+}

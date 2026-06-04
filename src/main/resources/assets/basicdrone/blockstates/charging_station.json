@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "basicdrone:block/charging_station" },
+    "powered=true":  { "model": "basicdrone:block/charging_station_active" }
+  }
+}

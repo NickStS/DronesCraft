@@ -1,0 +1,316 @@
+{
+  "variants": {
+    "shape=straight,facing=straight_north": {
+      "model": "basicdrone:block/cable_straight",
+      "x": 0,
+      "y": 0
+    },
+    "shape=straight,facing=straight_east": {
+      "model": "basicdrone:block/cable_straight",
+      "x": 0,
+      "y": 90
+    },
+    "shape=straight,facing=straight_up": {
+      "model": "basicdrone:block/cable_straight",
+      "x": 90,
+      "y": 0
+    },
+
+
+    "shape=corner,facing=corner_south_west": {
+      "model": "basicdrone:block/cable_corner",
+      "x": 0,
+      "y": 0
+    },
+    "shape=corner,facing=corner_north_west": {
+      "model": "basicdrone:block/cable_corner",
+      "x": 0,
+      "y": 90
+    },
+    "shape=corner,facing=corner_north_east": {
+      "model": "basicdrone:block/cable_corner",
+      "x": 0,
+      "y": 180
+    },
+    "shape=corner,facing=corner_south_east": {
+      "model": "basicdrone:block/cable_corner",
+      "x": 0,
+      "y": 270
+    },
+
+
+    "shape=corner,facing=corner_up_west": {
+      "model": "basicdrone:block/cable_corner",
+      "x": 90,
+      "y": 0
+    },
+    "shape=corner,facing=corner_up_north": {
+      "model": "basicdrone:block/cable_corner",
+      "x": 90,
+      "y": 90
+    },
+    "shape=corner,facing=corner_up_east": {
+      "model": "basicdrone:block/cable_corner",
+      "x": 90,
+      "y": 180
+    },
+    "shape=corner,facing=corner_up_south": {
+      "model": "basicdrone:block/cable_corner",
+      "x": 90,
+      "y": 270
+    },
+
+
+    "shape=corner,facing=corner_down_west": {
+      "model": "basicdrone:block/cable_corner",
+      "x": 270,
+      "y": 0
+    },
+    "shape=corner,facing=corner_down_north": {
+      "model": "basicdrone:block/cable_corner",
+      "x": 270,
+      "y": 90
+    },
+    "shape=corner,facing=corner_down_east": {
+      "model": "basicdrone:block/cable_corner",
+      "x": 270,
+      "y": 180
+    },
+    "shape=corner,facing=corner_down_south": {
+      "model": "basicdrone:block/cable_corner",
+      "x": 270,
+      "y": 270
+    },
+
+
+
+    "shape=t_shape,facing=t_forward_left_right": {
+      "model": "basicdrone:block/cable_t",
+      "x": 0,
+      "y": 0
+    },
+    "shape=t_shape,facing=t_forward_right_back": {
+      "model": "basicdrone:block/cable_t",
+      "x": 0,
+      "y": 90
+    },
+    "shape=t_shape,facing=t_back_right_left": {
+      "model": "basicdrone:block/cable_t",
+      "x": 0,
+      "y": 180
+    },
+    "shape=t_shape,facing=t_left_forward_back": {
+      "model": "basicdrone:block/cable_t",
+      "x": 0,
+      "y": 270
+    },
+    "shape=t_shape,facing=t_up_forward_back": {
+      "model": "basicdrone:block/cable_t",
+      "x": 270,
+      "y": 270
+    },
+    "shape=t_shape,facing=t_up_left_right": {
+      "model": "basicdrone:block/cable_t",
+      "x": 270,
+      "y": 180
+    },
+    "shape=t_shape,facing=t_down_left_right": {
+      "model": "basicdrone:block/cable_t",
+      "x": 90,
+      "y": 180
+    },
+    "shape=t_shape,facing=t_down_forward_back": {
+      "model": "basicdrone:block/cable_t",
+      "x": 90,
+      "y": 270
+    },
+
+
+    "shape=t_shape,facing=t_up_down_forward": {
+      "model": "basicdrone:block/cable_t_vert",
+      "x": 0,
+      "y": 0
+    },
+    "shape=t_shape,facing=t_up_down_back": {
+      "model": "basicdrone:block/cable_t_vert",
+      "x": 0,
+      "y": 180
+    },
+    "shape=t_shape,facing=t_up_down_left": {
+      "model": "basicdrone:block/cable_t_vert",
+      "x": 0,
+      "y": 270
+    },
+    "shape=t_shape,facing=t_up_down_right": {
+      "model": "basicdrone:block/cable_t_vert",
+      "x": 0,
+      "y": 90
+    },
+
+
+
+
+
+    "shape=triple,facing=triple_up_north_west": {
+      "model": "basicdrone:block/cable_triple",
+      "x": 270,
+      "y": 90
+    },
+    "shape=triple,facing=triple_up_north_east": {
+      "model": "basicdrone:block/cable_triple",
+      "x": 270,
+      "y": 180
+    },
+    "shape=triple,facing=triple_up_south_east": {
+      "model": "basicdrone:block/cable_triple",
+      "x": 270,
+      "y": 270
+    },
+    "shape=triple,facing=triple_up_south_west": {
+      "model": "basicdrone:block/cable_triple",
+      "x": 270,
+      "y": 0
+    },
+
+    "shape=triple,facing=triple_down_north_west": {
+      "model": "basicdrone:block/cable_triple",
+      "x": 90,
+      "y": 0
+    },
+    "shape=triple,facing=triple_down_north_east": {
+      "model": "basicdrone:block/cable_triple",
+      "x": 90,
+      "y": 90
+    },
+    "shape=triple,facing=triple_down_south_east": {
+      "model": "basicdrone:block/cable_triple",
+      "x": 90,
+      "y": 180
+    },
+    "shape=triple,facing=triple_down_south_west": {
+      "model": "basicdrone:block/cable_triple",
+      "x": 90,
+      "y": 270
+    },
+
+
+    "shape=cross,facing=cross_horizontal": {
+      "model": "basicdrone:block/cable_cross",
+      "x": 0,
+      "y": 0
+    },
+    "shape=cross,facing=cross_vertical_x": {
+      "model": "basicdrone:block/cable_cross",
+      "x": 90,
+      "y": 0
+    },
+    "shape=cross,facing=cross_vertical_z": {
+      "model": "basicdrone:block/cable_cross",
+      "x": 90,
+      "y": 270
+    },
+
+
+    "shape=quad,facing=quad_up_forward_left_right": {
+      "model": "basicdrone:block/cable_quad",
+      "x": 90,
+      "y": 0
+    },
+    "shape=quad,facing=quad_up_back_left_right": {
+      "model": "basicdrone:block/cable_quad",
+      "x": 90,
+      "y": 180
+    },
+    "shape=quad,facing=quad_up_left_forward_back": {
+      "model": "basicdrone:block/cable_quad",
+      "x": 90,
+      "y": 270
+    },
+    "shape=quad,facing=quad_up_right_forward_back": {
+      "model": "basicdrone:block/cable_quad",
+      "x": 90,
+      "y": 90
+    },
+    "shape=quad,facing=quad_down_forward_left_right": {
+      "model": "basicdrone:block/cable_quad",
+      "x": 270,
+      "y": 180
+    },
+    "shape=quad,facing=quad_down_back_left_right": {
+      "model": "basicdrone:block/cable_quad",
+      "x": 270,
+      "y": 0
+    },
+    "shape=quad,facing=quad_down_left_forward_back": {
+      "model": "basicdrone:block/cable_quad",
+      "x": 270,
+      "y": 90
+    },
+    "shape=quad,facing=quad_down_right_forward_back": {
+      "model": "basicdrone:block/cable_quad",
+      "x": 270,
+      "y": 270
+    },
+    "shape=quad,facing=quad_up_down_forward_left": {
+      "model": "basicdrone:block/cable_quad_vert",
+      "x": 0,
+      "y": 90
+    },
+    "shape=quad,facing=quad_up_down_forward_right": {
+      "model": "basicdrone:block/cable_quad_vert",
+      "x": 0,
+      "y": 180
+    },
+    "shape=quad,facing=quad_up_down_back_left": {
+      "model": "basicdrone:block/cable_quad_vert",
+      "x": 0,
+      "y": 0
+    },
+    "shape=quad,facing=quad_up_down_back_right": {
+      "model": "basicdrone:block/cable_quad_vert",
+      "x": 0,
+      "y":270
+    },
+
+
+
+    "shape=quintuple,facing=quint_forward_back_left_right_up": {
+      "model": "basicdrone:block/cable_quintuple",
+      "x": 0,
+      "y": 0
+    },
+    "shape=quintuple,facing=quint_forward_back_left_right_down": {
+      "model": "basicdrone:block/cable_quintuple",
+      "x": 180,
+      "y": 0
+    },
+    "shape=quintuple,facing=quint_forward_left_right_up_down": {
+      "model": "basicdrone:block/cable_quintuple",
+      "x": 90,
+      "y": 0
+    },
+    "shape=quintuple,facing=quint_back_left_right_up_down": {
+      "model": "basicdrone:block/cable_quintuple",
+      "x": 270,
+      "y": 0
+    },
+    "shape=quintuple,facing=quint_left_forward_back_up_down": {
+      "model": "basicdrone:block/cable_quintuple",
+      "x": 90,
+      "y": 270
+    },
+    "shape=quintuple,facing=quint_right_forward_back_up_down": {
+      "model": "basicdrone:block/cable_quintuple",
+      "x": 270,
+      "y": 270
+    },
+
+
+
+    "shape=full,facing=full_all": {
+      "model": "basicdrone:block/cable_full",
+      "x": 0,
+      "y": 0
+    }
+  }
+}

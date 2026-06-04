@@ -1,0 +1,37 @@
+# ───────── Gradle ─────────
+.gradle/
+build/
+out/
+
+# ───────── Forge / runtime (regenerated, contain local data) ─────────
+run/
+run-data/
+runs/
+logs/
+crash-reports/
+
+# ───────── IDE — IntelliJ IDEA ─────────
+# NOTE: these store hardcoded absolute paths from the dev machine — never commit
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ───────── IDE — Eclipse ─────────
+.settings/
+.metadata/
+.classpath
+.project
+bin/
+
+# ───────── IDE — VS Code ─────────
+.vscode/
+
+# ───────── OS junk ─────────
+.DS_Store
+Thumbs.db
+
+# ───────── Build artifacts ─────────
+*.jar
+# keep the Gradle wrapper jar (needed to build)
+!gradle/wrapper/gradle-wrapper.jar

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "CRC",
+    "CXC"
+  ],
+  "key": {
+    "P": { "item": "minecraft:iron_ingot" },
+    "C": { "item": "basicdrone:cable" },
+    "R": { "item": "minecraft:redstone" },
+    "X": { "item": "basicdrone:generator" }
+  },
+  "result": {
+    "item": "basicdrone:charging_station",
+    "count": 1
+  }
+}

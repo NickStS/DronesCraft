@@ -1,0 +1,9 @@
+{
+  "charger_working":   { "sounds":[{ "name":"basicdrone:charger_working",   "stream":true }] },
+  "generator_working": { "sounds":[{ "name":"basicdrone:generator_working","stream":true }] },
+  "drone_charged":     { "sounds":[{ "name":"basicdrone:drone_charged"        }] },
+  "drone_lift":        { "sounds":[{ "name":"basicdrone:drone_lift"           }] },
+  "drone_low_battery": { "sounds":[{ "name":"basicdrone:drone_low_battery"  }] },
+  "drone_shoot":       { "sounds":[{ "name":"basicdrone:drone_shoot", "volume": 0.3, "pitch": 1.0}] },
+  "drone_spot":        { "sounds":[{ "name":"basicdrone:drone_spot", "volume": 0.5, "pitch": 1.0}] }
+}

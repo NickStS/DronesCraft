@@ -1,0 +1,13 @@
+{
+  "block.basicdrone.drone": "Блок дрона",
+  "block.basicdrone.cable": "Энергокабель",
+  "block.basicdrone.charging_station": "Зарядная станция",
+  "block.basicdrone.energy_storage": "Хранилище энергии",
+  "block.basicdrone.generator": "Генератор",
+  "item.basicdrone.drone": "Дрон",
+  "item.basicdrone.remote_controller": "Пульт управления",
+  "container.basicdrone.generator": "Генератор",
+  "container.basicdrone.energy_storage": "Хранилище энергии",
+  "container.basicdrone.remote_controller": "Пульт управления",
+  "itemGroup.basicdrone": "Basic Drone"
+}

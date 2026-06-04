@@ -1,0 +1,27 @@
+{
+  "format_version": "1.8.0",
+  "geckolib_format_version": 2,
+  "animations": {
+    "spin": {
+      "loop": true,
+      "animation_length": 1,
+      "bones": {
+        "dl_prop": { "rotation": { "0": { "vector": [0, 0, 0] }, "1": { "vector": [0, 2070, 0] } } },
+        "dr_prop": { "rotation": { "0": { "vector": [0, 0, 0] }, "1": { "vector": [0,-2070, 0] } } },
+        "fr_prop": { "rotation": { "0": { "vector": [0, 0, 0] }, "1": { "vector": [0, 2070, 0] } } },
+        "dl_prop2":{ "rotation": { "0": { "vector": [0, 0, 0] }, "1": { "vector": [0,-2070, 0] } } }
+      }
+    },
+
+    "idle": {
+      "loop": true,
+      "animation_length": 1,
+      "bones": {
+        "dl_prop":  { "rotation": { "0": { "vector": [0, 0, 0] } } },
+        "dr_prop":  { "rotation": { "0": { "vector": [0, 0, 0] } } },
+        "fr_prop":  { "rotation": { "0": { "vector": [0, 0, 0] } } },
+        "dl_prop2": { "rotation": { "0": { "vector": [0, 0, 0] } } }
+      }
+    }
+  }
+}

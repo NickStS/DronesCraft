@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "basicdrone:block/energy_storage" },
+    "powered=true" : { "model": "basicdrone:block/energy_storage_active" }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down":  "basicdrone:block/energy_storage_bottom",
+    "up":    "basicdrone:block/energy_storage_top",
+    "north": "basicdrone:block/energy_storage_front",
+    "south": "basicdrone:block/energy_storage_back",
+    "west":  "basicdrone:block/energy_storage_leftright",
+    "east":  "basicdrone:block/energy_storage_leftright"
+  }
+}

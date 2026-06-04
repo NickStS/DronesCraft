@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "RRR",
+    "GGG"
+  ],
+  "key": {
+    "G": { "item": "minecraft:glass" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "result": {
+    "item": "basicdrone:cable",
+    "count": 4
+  }
+}

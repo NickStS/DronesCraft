@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RCR",
+    "CEC",
+    "CBC"
+  ],
+  "key": {
+    "R": { "item": "minecraft:redstone" },
+    "C": { "item": "basicdrone:cable" },
+    "E": { "item": "basicdrone:energy_storage" },
+    "B": { "item": "minecraft:bow" }
+  },
+  "result": {
+    "item": "basicdrone:drone",
+    "count": 1
+  }
+}
